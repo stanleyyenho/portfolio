@@ -706,12 +706,20 @@ ol {
   .home-2.container {
     width: auto;
   }
+  .headshot{
+    height: 20%;
+    width: 20%;
+  }
 }
 
 /* Medium screen : 992px. */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .portfolio-item {
     height: 450px;
+  }
+  .headshot{
+    height: 30%;
+    width: 30%;
   }
 }
 
@@ -722,6 +730,10 @@ ol {
   }
   .portfolio-item {
     height: 350px;
+  }
+  .headshot{
+    height: 30%;
+    width: 30%;
   }
 }
 
