@@ -271,7 +271,7 @@ Start of Page head section [*3]
 	color:#505050;
 }
 .job{
-	display: inline;
+	display: inline-block;
 	font-weight: 700;
 	color: #00338d;
 }
